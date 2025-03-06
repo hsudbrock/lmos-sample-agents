@@ -20,7 +20,7 @@ The following agents are available in this repository:
 - [Technical Specifications Agent](./techspec-agent) (`techspec-agent`): Defines technical specifications from a requirements description.
 - [Product Search Agent](./productsearch-agent) (`productsearch-agent`): Searches for products that match given technical specifications.
 
-## How to Run
+## How to Run 
 
 #### 1. Set your OpenAI API Key
 
